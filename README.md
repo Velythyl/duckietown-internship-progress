@@ -10,11 +10,11 @@ https://docs.duckietown.org/daffy/AIDO/out/embodied_rl.html
 
 Note on this list's formatting: there are explicit TODOs only if needed; otherwise they are implicit
 
-- [ ] had to do apt-get install gfortran libopenblas-dev liblapack-dev (taken from https://github.com/scipy/scipy/issues/9005) before the install, that's before doing the install of gym. ```diff !TODO``` add to `make init`
+- [ ] had to do apt-get install gfortran libopenblas-dev liblapack-dev (taken from https://github.com/scipy/scipy/issues/9005) before the install, that's before doing the install of gym. ```!TODO``` add to `make init`
 
-- [ ] pyglet must be 1.4 or 1.5, but pyglet is at 1.5.5 :( but nevertheless it runs fine without the correct version, weirdly. ```diff !TODO``` update to 1.5
+- [ ] pyglet must be 1.4 or 1.5, but pyglet is at 1.5.5 :( but nevertheless it runs fine without the correct version, weirdly. ```!TODO``` update to 1.5
 
-- [ ] changed ddpg.py in duckietown_rl because of this issue: https://github.com/agrimgupta92/sgan/issues/22 So i replace the calls to view which crashed the program with calls to reshape ```diff !TODO``` commmit it
+- [ ] changed ddpg.py in duckietown_rl because of this issue: https://github.com/agrimgupta92/sgan/issues/22 So i replace the calls to view which crashed the program with calls to reshape ```!TODO``` commmit it
 
 - [ ] Make a makefile `make init` that handles the setup as described here https://docs.duckietown.org/daffy/AIDO/out/embodied_rl.html , would be useful on the Jetson Docker
 
