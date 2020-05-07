@@ -10,7 +10,7 @@ https://docs.duckietown.org/daffy/AIDO/out/embodied_rl.html
 
 Note on this list's formatting: there are explicit TODOs only if needed; otherwise they are implicit
 
-- [ ] had to do apt-get install gfortran libopenblas-dev liblapack-dev (taken from https://github.com/scipy/scipy/issues/9005) before the install, that's before doing the install of gym. @@TODO@@ add to `make init`
+- [ ] had to do apt-get install gfortran libopenblas-dev liblapack-dev (taken from https://github.com/scipy/scipy/issues/9005) before the install, that's before doing the install of gym. @@ TODO @@ add to `make init`
 
 - [ ] pyglet must be 1.4 or 1.5, but pyglet is at 1.5.5 :( but nevertheless it runs fine without the correct version, weirdly. @@TODO@@ update to 1.5
 
