@@ -10,3 +10,6 @@ dts unusable if you dont dts --set-version
 
 # RL Cleanup:
 Startpoint: https://docs.duckietown.org/DT19/AIDO/out/embodied_rpl.html
+
+- [ ] Make a `make init` to init the repo, so that the Jetson docker can do it too
+- [ ] Make a `make sumbit` to do a submission automatically
