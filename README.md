@@ -20,3 +20,6 @@ NOTE: initially, I wanted to make the init, sumbit, etc script a Makefile, but I
 5/6/2020 started to install stuff, installed dts, got stalled by the bug in https://docs.duckietown.org/daffy/AIDO/out/cm_first.html
 5/7/2020 turns out that the bug is only for that link https://docs.duckietown.org/daffy/AIDO/out/cm_first.html . It works fine for the pytorch and RL baselines. Fiddled with those a bit to learn the stack. Contacted Liam and sent me a lot of helpful resources. Started working on the "more up to date" RL, https://docs.duckietown.org/DT19/AIDO/out/embodied_rpl.html from https://github.com/PhilippeMarcotte/challenge-aido_LF-baseline-RPL-duckietown . Forked it here: https://github.com/Velythyl/challenge-aido_LF-baseline-RPL-duckietown . Started work on the init script for it in branch `create-script`.
 5/8/2020 Deadline for OS class TPs is May 10th: worked on tp3 autograder
+5/9/2020 worked on tp3 autograder
+5/10/2020 weekend break (mother's day)
+5/11/2020 worked on tp3 autograder
