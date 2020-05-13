@@ -23,3 +23,5 @@ NOTE: initially, I wanted to make the init, sumbit, etc script a Makefile, but I
 5/9/2020 worked on tp3 autograder  
 5/10/2020 weekend break (mother's day)  
 5/11/2020 worked on tp3 autograder  
+5/12/2020 finished tp3 autograder, tp5 autograder  
+5/13/2020 back on duckietown baybee! Figured out the `unkown runtime: nvidia` bug. Latest docker version completely ignores docker-compose.yml `version` tag, and thus the `runtime` flag is unkown, because it thinks it's using 3.x, apparently.  
