@@ -12,6 +12,7 @@ dts unusable if you dont dts --set-version
 Startpoint: https://docs.duckietown.org/DT19/AIDO/out/embodied_rpl.html
 
 - [x] Make a script to init the repo, so that the Jetson docker can do it too [https://github.com/Velythyl/challenge-aido_LF-baseline-RPL-duckietown/issues/1]
+- [ ] Make a script to train [IN PROGRESS]
 - [ ] Make a script to do a submission automatically [IN PROGRESS]
 - [ ] Fix bug that occurs when doing 34.4 of https://docs.duckietown.org/DT19/AIDO/out/embodied_rpl.html : 
 ![Image of bug](/roslaunch_bug.png?raw=true )
