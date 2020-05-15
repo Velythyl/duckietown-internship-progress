@@ -9,6 +9,11 @@ dts unusable if you dont dts --set-version
 - [ ] Read recent RL paper https://arxiv.org/pdf/1811.12560.pdf
 
 # RL Cleanup:
+- [ ] Make a script to init the repo
+- [ ] Make a script to automatise submissions
+- [ ] Either make the training use less memory, or make it run on google collab, because right now it crashes at 15% of the way done [IN PROGRESS]
+
+# RPL Cleanup:
 Startpoint: https://docs.duckietown.org/DT19/AIDO/out/embodied_rpl.html
 
 - [x] Make a script to init the repo, so that the Jetson docker can do it too [https://github.com/Velythyl/challenge-aido_LF-baseline-RPL-duckietown/issues/1]
