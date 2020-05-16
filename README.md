@@ -7,6 +7,9 @@ dts unusable if you dont dts --set-version
 - [ ] Look at this series of videos https://www.youtube.com/watch?v=2pWv7GOvuf0
 - [ ] Read survey paper https://arxiv.org/abs/1708.05866
 - [ ] Read recent RL paper https://arxiv.org/pdf/1811.12560.pdf
+- [ ] https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html
+- [ ] https://lilianweng.github.io/lil-log/2018/05/05/implementing-deep-reinforcement-learning-models.html
+- [ ] https://spinningup.openai.com/en/latest/
 
 # RL Cleanup:
 - [ ] Make a script to init the repo
