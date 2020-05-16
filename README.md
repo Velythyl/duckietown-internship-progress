@@ -12,6 +12,8 @@ dts unusable if you dont dts --set-version
 - [ ] Make a script to init the repo
 - [ ] Make a script to automatise submissions
 - [ ] Either make the training use less memory, or make it run on google collab, because right now it crashes at 15% of the way done [IN PROGRESS]
+- [ ] https://github.com/duckietown/gym-duckietown/issues/198
+- [ ] https://github.com/duckietown/gym-duckietown/issues/190
 
 # RPL Cleanup:
 Startpoint: https://docs.duckietown.org/DT19/AIDO/out/embodied_rpl.html
