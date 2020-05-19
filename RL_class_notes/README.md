@@ -11,5 +11,4 @@
 ## The RL optimisation problem
 - Reward R_t is a scalar feedback signal. Indicates how well agent is doing at step t. We want to maximise it. "Reward hypothesis: all goals can be described by the maximisation of expected cumulative reward"
 - Goal: select actions to maximise total future reward. Actions may have long term consequences, rewards might be delayed; it might be better to sacrifice immediate reward to gain more later...
-- Obs -> agent -> action
-     reward^
+- Obs -> agent -> action; and reward into agent too
