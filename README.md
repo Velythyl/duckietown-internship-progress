@@ -40,7 +40,8 @@ NOTE: initially, I wanted to make the init, sumbit, etc script a Makefile, but I
 5/12/2020 finished tp3 autograder, tp5 autograder  
 5/13/2020 back on duckietown baybee! Figured out the `unkown runtime: nvidia` bug. Latest docker version completely ignores docker-compose.yml `version` tag, and thus the `runtime` flag is unkown, because it thinks it's using 3.x, apparently.  
 5/14/2020 First time seeing a result!!! I call it brakedancing: the car just spins in circles without moving 10/10. Jokes asides, it's great seeing something for the first time  
-5/15/2020 Fixed the bug with the tanh vs sigm - but now the car still turns, just not as fast
-5/16/2020 Figured out that there was a bug in one of the wrappers - it was for the old duckietown-gym API, I removed the part that multiplied the left component of the action by 0.8
-5/17/2020 Worked on grading
-5/18/2020 Worked on grading
+5/15/2020 Fixed the bug with the tanh vs sigm - but now the car still turns, just not as fast  
+5/16/2020 Figured out that there was a bug in one of the wrappers - it was for the old duckietown-gym API, I removed the part that multiplied the left component of the action by 0.8  
+5/17/2020 Worked on grading  
+5/18/2020 Worked on grading.  
+5/19/2020 Worked on grading. Also, started RL brushup: watched video series  
