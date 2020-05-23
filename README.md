@@ -45,3 +45,6 @@ NOTE: initially, I wanted to make the init, sumbit, etc script a Makefile, but I
 5/17/2020 Worked on grading  
 5/18/2020 Worked on grading.  
 5/19/2020 Worked on grading. Also, started RL brushup: watched video series  
+5/20/2020 Worked on grading. Also, RL brushup: watched video series. I also managed to downsize the images, I had to make myself a shape calculator because of the way pytorch's CNNs are set up.  
+5/21/2020 Worked on grading. Also, RL brushup: watched video series; fiddled with hyperparams for my RL. Noticed that all the others algos used the [vel,steering] scheme, so I decided to switch to it instead of [vel_1,vel_2]. Started it to run overnight  
+5/22/2020 Progress! The car is MUCH less stable when going in a straight line, but it seems like it's actually learning, that it's not stuck in a local minimum of "go straight; hit wall; gain reward". It seems to start to take turns alright. Contrarily to before, when I observe the predictions now, it has some variance, instead of the static [1,1] it gave before.  
