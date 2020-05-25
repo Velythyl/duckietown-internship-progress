@@ -14,9 +14,10 @@ dts unusable if you dont dts --set-version
 # RL Cleanup:
 - [ ] Make a script to init the repo
 - [ ] Make a script to automatise submissions
-- [ ] Either make the training use less memory, or make it run on google collab, because right now it crashes at 15% of the way done [IN PROGRESS]
+- [x] Either make the training use less memory, or make it run on google collab, because right now it crashes at 15% of the way done [DONE BY RESIZING TO 64x64]
 - [x] https://github.com/duckietown/gym-duckietown/issues/198
 - [x] https://github.com/duckietown/gym-duckietown/issues/190
+- [ ] Allow multiple agents to build the sparse rewards
 
 # RPL Cleanup:
 Startpoint: https://docs.duckietown.org/DT19/AIDO/out/embodied_rpl.html
