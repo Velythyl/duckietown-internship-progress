@@ -53,3 +53,6 @@ NOTE: initially, I wanted to make the init, sumbit, etc script a Makefile, but I
 5/23/2021 Worked on grading.  
 5/25/2020 Added a way to "warmup" the RL with some IL before training. Right now, it works with the actor but not the critic
 5/26/2020 Worked on the PurePursuit controller to make it better; tested it with the IL warmup. TODO: train the critic at the same time (how???)  
+5/27/2020 Not feeling good, took the day off  
+5/28/2020 Not feeling good, took the day off  
+5/29/2020 Made it so it trains the critic too, but I'm not sure it's the right way. I'll have to look through the RPL baseline to figure it out, but the code structure is very confusing... Also, removed the DtRewardWrapper and found out that the bots are SO MUCH better when training directly on the simulator's reward function!  
