@@ -57,4 +57,4 @@ NOTE: initially, I wanted to make the init, sumbit, etc script a Makefile, but I
 5/28/2020 Not feeling good, took the day off  
 5/29/2020 Made it so it trains the critic too, but I'm not sure it's the right way. I'll have to look through the RPL baseline to figure it out, but the code structure is very confusing... Also, removed the DtRewardWrapper and found out that the bots are SO MUCH better when training directly on the simulator's reward function!  
 6/1/2020 HDD failed... installing new SSD and reinstalling the entire stack  
-
+6/2/2020 Installing CUDA and Nvidia drivers is an experience that fills me with joy and it's just so fun  
