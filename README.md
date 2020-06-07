@@ -2,6 +2,13 @@
 https://docs.duckietown.org/DT19/AIDO/out/cm_sw.html
 dts unusable if you dont dts --set-version
 
+# DAGGER:
+- [ ] Make curves more comparable
+- [ ] Read paper
+- [ ] Make curves have HP names for reproducibility
+- [ ] Try different HPs
+- [ ] Get a "working" model
+
 # RL brushup:
 
 - [ ] Look at this series of videos https://www.youtube.com/watch?v=2pWv7GOvuf0 PROGESS[2/10]
