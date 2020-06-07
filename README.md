@@ -8,6 +8,7 @@ dts unusable if you dont dts --set-version
 - [ ] Make curves have HP names for reproducibility
 - [ ] Try different HPs
 - [ ] Get a "working" model
+- [ ] Write down IL/dagger questions
 
 # RL brushup:
 
