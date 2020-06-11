@@ -10,6 +10,11 @@ dts unusable if you dont dts --set-version
 - [ ] Get a "working" model
 - [ ] Write down IL/dagger questions
 
+Fix test
+easier map
+read first paper
+read issue
+
 # RL brushup:
 
 - [ ] Look at this series of videos https://www.youtube.com/watch?v=2pWv7GOvuf0 PROGESS[2/10]
